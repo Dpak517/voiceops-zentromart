@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# the brief forbids shipping a copy of the dataset
+data/
+kb/
+practice/
+tools/
+tickets_created.csv
+outputs/
+*.wav

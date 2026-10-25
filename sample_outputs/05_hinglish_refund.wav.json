@@ -1,0 +1,77 @@
+{
+  "file": "05_hinglish_refund.wav.m4a",
+  "heard": "mera credit card ka refund satrah october ko shuru hua tha kab tak aayega",
+  "stt_error": "",
+  "decision": "answer",
+  "reply": "मैं ZentroMart का AI सपोर्ट असिस्टेंट हूँ। आपका क्रेडिट कार्ड पर रिफंड 17 अक्टूबर को शुरू हुआ था। 5 से 7 व्यावसायिक दिनों के भीतर यह आपके कार्ड में जमा हो जाएगा। इसका मतलब है कि सबसे पहले 24 अक्टूबर 2026 को और अधिकतम 27 अक्टूबर 2026 को रिफंड आपके खाते में दिखाई देगा।",
+  "sources": [
+    "REF-2"
+  ],
+  "retrieved_ids": [
+    "REF-2",
+    "RET-7",
+    "DEL-1",
+    "PAY-1",
+    "REF-1",
+    "PAY-3"
+  ],
+  "context_ids": [
+    "ESC-1",
+    "ESC-2",
+    "ESC-3",
+    "ESC-4",
+    "IDV-1",
+    "IDV-2",
+    "IDV-3",
+    "IDV-4",
+    "KB-00.1",
+    "KB-00.2",
+    "KB-00.3",
+    "KB-00.4",
+    "STY-1",
+    "STY-2",
+    "STY-3",
+    "STY-4",
+    "STY-5",
+    "REF-2",
+    "RET-7",
+    "DEL-1",
+    "PAY-1",
+    "REF-1",
+    "PAY-3"
+  ],
+  "search_query": "mera credit card ka refund satrah october ko shuru hua tha kab tak aayega refund timeline business days payment method initiated timeline days business days holidays date",
+  "rewrite": "",
+  "tool_calls": [
+    {
+      "tool": "business_day_range",
+      "args": {
+        "max_days": 7,
+        "min_days": 5,
+        "start_date": "2026-10-17"
+      },
+      "result": {
+        "earliest": {
+          "date": "2026-10-24",
+          "formatted": "24 October 2026",
+          "weekday": "Saturday"
+        },
+        "latest": {
+          "date": "2026-10-27",
+          "formatted": "27 October 2026",
+          "weekday": "Tuesday"
+        }
+      }
+    }
+  ],
+  "state": {
+    "order_id": "",
+    "verified": false,
+    "failures": 0,
+    "ticket_id": ""
+  },
+  "error": "",
+  "audio_out": "05_hinglish_refund.wav_reply.wav",
+  "tts_error": "",
+  "tts_language": "hi-IN"
+}

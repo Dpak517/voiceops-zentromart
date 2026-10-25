@@ -1,0 +1,17 @@
+{
+  "file": "08_unclear.wav.m4a",
+  "heard": "",
+  "stt_error": "",
+  "decision": "clarify",
+  "reply": "Sorry, I didn't catch that. Could you say it again?",
+  "sources": [],
+  "retrieved_ids": [],
+  "context_ids": [],
+  "search_query": "",
+  "rewrite": "",
+  "tool_calls": [],
+  "error": "",
+  "audio_out": "08_unclear.wav_reply.wav",
+  "tts_error": "",
+  "tts_language": "en-IN"
+}

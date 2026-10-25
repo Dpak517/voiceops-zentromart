@@ -1,0 +1,57 @@
+{
+  "file": "02_shoe_return.wav.m4a",
+  "heard": "how many days do i have to return a pair of shoes",
+  "stt_error": "",
+  "decision": "answer",
+  "reply": "I'm ZentroMart's AI support assistant. A pair of shoes falls under the “Clothing, footwear and bags” category, so you have 15 calendar days from the delivery date to return them. If you’re not a ZentroMart Plus member, a reverse‑pickup fee of ₹49 will apply for a change‑of‑mind return.",
+  "sources": [
+    "RET-2",
+    "RET-6"
+  ],
+  "retrieved_ids": [
+    "RET-2",
+    "RET-6",
+    "PLS-2",
+    "RET-3",
+    "RETv3-2",
+    "MKS-2"
+  ],
+  "context_ids": [
+    "ESC-1",
+    "ESC-2",
+    "ESC-3",
+    "ESC-4",
+    "IDV-1",
+    "IDV-2",
+    "IDV-3",
+    "IDV-4",
+    "KB-00.1",
+    "KB-00.2",
+    "KB-00.3",
+    "KB-00.4",
+    "STY-1",
+    "STY-2",
+    "STY-3",
+    "STY-4",
+    "STY-5",
+    "RET-2",
+    "RET-6",
+    "PLS-2",
+    "RET-3",
+    "RETv3-2",
+    "MKS-2"
+  ],
+  "search_query": "how many days do i have to return a pair of shoes return window days policy reverse pickup fee category",
+  "rewrite": "",
+  "tool_calls": [],
+  "state": {
+    "order_id": "",
+    "verified": false,
+    "failures": 0,
+    "ticket_id": ""
+  },
+  "error": "",
+  "audio_out": "02_shoe_return.wav_reply.wav",
+  "tts_error": "",
+  "tts_language": "en-IN"
+}

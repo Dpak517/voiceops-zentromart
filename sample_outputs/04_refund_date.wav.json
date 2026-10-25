@@ -1,0 +1,56 @@
+{
+  "file": "04_refund_date.wav.m4a",
+  "heard": "my refund to net banking was started on seventeen october twenty twenty six by which date should i get it",
+  "stt_error": "",
+  "decision": "answer",
+  "reply": "I'm ZentroMart's AI support assistant. Your net‑banking refund was initiated on 17 October 2026. According to our policy, net‑bank refunds take 3 to 5 business days. So you should see the amount in your account between 22 October 2026 and 24 October 2026.",
+  "sources": [
+    "REF-2"
+  ],
+  "retrieved_ids": [
+    "REF-2",
+    "DEL-1",
+    "RET-7",
+    "PAY-1",
+    "REF-1",
+    "PAY-3"
+  ],
+  "context_ids": [
+    "ESC-1",
+    "ESC-2",
+    "ESC-3",
+    "ESC-4",
+    "IDV-1",
+    "IDV-2",
+    "IDV-3",
+    "IDV-4",
+    "KB-00.1",
+    "KB-00.2",
+    "KB-00.3",
+    "KB-00.4",
+    "STY-1",
+    "STY-2",
+    "STY-3",
+    "STY-4",
+    "STY-5",
+    "REF-2",
+    "DEL-1",
+    "RET-7",
+    "PAY-1",
+    "REF-1",
+    "PAY-3"
+  ],
+  "search_query": "my refund to net banking was started on seventeen october twenty twenty six by which date should i get it refund timeline business days payment method initiated timeline days business days holidays date",
+  "rewrite": "",
+  "tool_calls": [],
+  "state": {
+    "order_id": "",
+    "verified": false,
+    "failures": 0,
+    "ticket_id": ""
+  },
+  "error": "",
+  "audio_out": "04_refund_date.wav_reply.wav",
+  "tts_error": "",
+  "tts_language": "en-IN"
+}
