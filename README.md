@@ -5,7 +5,7 @@ conversation (memory, caller verification, order lookup, tickets, handover) and 
 
 **Pipeline:** customer audio -> Gnani STT -> agent (Groq LLM + retrieval + tools) -> Gnani TTS -> spoken reply.
 
-GitHub: `<paste your public repo URL here>`
+GitHub: https://github.com/Dpak517/voiceops-zentromart
 
 ## Setup
 1. Python 3.10+.
